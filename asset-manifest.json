@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swiggy-clone/static/css/main.fee15754.css",
+    "main.js": "/swiggy-clone/static/js/main.459a2ee2.js",
+    "static/js/787.3fec7a93.chunk.js": "/swiggy-clone/static/js/787.3fec7a93.chunk.js",
+    "static/media/images.jpg": "/swiggy-clone/static/media/images.3b3aa82bd428d3ac1360.jpg",
+    "index.html": "/swiggy-clone/index.html",
+    "main.fee15754.css.map": "/swiggy-clone/static/css/main.fee15754.css.map",
+    "main.459a2ee2.js.map": "/swiggy-clone/static/js/main.459a2ee2.js.map",
+    "787.3fec7a93.chunk.js.map": "/swiggy-clone/static/js/787.3fec7a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee15754.css",
+    "static/js/main.459a2ee2.js"
+  ]
+}
