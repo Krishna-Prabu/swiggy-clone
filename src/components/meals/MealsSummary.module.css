@@ -1,0 +1,12 @@
+.summary{
+    background: #ccc;
+    width: 90%;
+    box-shadow: 0 0 4px rgb(41, 38, 38);
+    color: black;
+    padding: 1rem 0.75rem;
+    
+    border-radius: 12px;
+    text-align: center;
+    margin: auto;
+    
+}

@@ -1,0 +1,11 @@
+.form button{
+    background: rgb(202, 63, 7);
+    padding: 0.5rem 1.5rem;
+    color: black;
+    font-weight: bold;
+    border-radius: 25px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    
+}

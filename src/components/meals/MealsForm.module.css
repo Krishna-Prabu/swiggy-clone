@@ -1,0 +1,28 @@
+.meals{
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.name{
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    color: black;
+}
+
+.description{
+    color: rgb(47, 43, 43);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(208, 97, 6);
+
+}

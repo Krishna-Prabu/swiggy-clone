@@ -1,0 +1,7 @@
+.meals{
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    width: 40rem;
+    margin-top: -10rem;
+}
