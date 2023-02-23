@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/swiggy-clone/static/css/main.fee15754.css",
-    "main.js": "/swiggy-clone/static/js/main.b7594231.js",
+    "main.css": "/swiggy-clone/static/css/main.66b78dbe.css",
+    "main.js": "/swiggy-clone/static/js/main.0de213fe.js",
     "static/js/787.3fec7a93.chunk.js": "/swiggy-clone/static/js/787.3fec7a93.chunk.js",
     "static/media/food.jpg": "/swiggy-clone/static/media/food.47a62850517a823b2124.jpg",
+    "static/media/payment-icon.svg": "/swiggy-clone/static/media/payment-icon.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
+    "static/media/join.svg": "/swiggy-clone/static/media/join.ff0a9c327ab18b822f502f4d4dbe2f92.svg",
+    "static/media/question.svg": "/swiggy-clone/static/media/question.f34ab6e886288ea6b849d4538d5b199e.svg",
+    "static/media/bag.svg": "/swiggy-clone/static/media/bag.6edb86db108485f9e5086fc68df78c7e.svg",
     "index.html": "/swiggy-clone/index.html",
-    "main.fee15754.css.map": "/swiggy-clone/static/css/main.fee15754.css.map",
-    "main.b7594231.js.map": "/swiggy-clone/static/js/main.b7594231.js.map",
+    "static/media/star.svg": "/swiggy-clone/static/media/star.b16c041aff85c2eec6fd40c059d5e76c.svg",
+    "main.66b78dbe.css.map": "/swiggy-clone/static/css/main.66b78dbe.css.map",
+    "main.0de213fe.js.map": "/swiggy-clone/static/js/main.0de213fe.js.map",
     "787.3fec7a93.chunk.js.map": "/swiggy-clone/static/js/787.3fec7a93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fee15754.css",
-    "static/js/main.b7594231.js"
+    "static/css/main.66b78dbe.css",
+    "static/js/main.0de213fe.js"
   ]
 }
